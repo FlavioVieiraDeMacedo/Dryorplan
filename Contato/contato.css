@@ -1,0 +1,65 @@
+body {
+    margin: 120px 0px 0px 0px ;
+    font-family: 'Century Gothic', sans-serif;
+    background-image: url("http://www.acfconstrutora.com.br/imagens/bg-index.png");
+ 
+  }
+  h2{
+      color:#f39200;
+      text-transform: uppercase;
+  }
+  p{
+      color:#fff;
+  }
+  main{
+    padding: 0 10% 0 10%;
+}
+
+.formulario input{
+    height: 30px;
+    min-width: 300px;
+    width: 50vw;
+    background: transparent;
+    border: 1px solid #fff;
+    padding: 5px;
+    margin-bottom: 5px;
+    color:#fff;
+}
+.formulario button{
+    height: 40px;
+    min-width: 100px;
+    width: 10%;
+    background: #f39200;
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin-bottom: 5px;
+    color:#fff;
+    cursor: pointer;
+    transition: 1s;
+}
+.contato{
+    float:right;
+}
+.formulario{
+    float:left;
+}
+
+.formulario button:hover{
+    background: #f36a00;
+}
+
+#comentario{
+    height: 100px;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #fff;
+    opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #fff;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+    color: #fff;
+}

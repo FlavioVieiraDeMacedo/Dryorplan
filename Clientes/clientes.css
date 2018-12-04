@@ -1,0 +1,31 @@
+body {
+    margin: 150px 0px 0px 0px ;
+    font-family: 'Century Gothic', sans-serif;
+    background-image: url("http://www.acfconstrutora.com.br/imagens/bg-index.png");
+  }
+  h2{
+    color:#f39200;
+    text-transform: uppercase;
+}
+main{
+    padding: 0 10% 0 10%;
+}
+.clientes{
+    padding: 20px;
+    text-align: center;
+    
+}
+.iconCliente{
+    display: inline;
+    margin: 10px 50px;
+}
+.iconCliente img{
+    box-sizing: border-box;
+    width: 180px;
+    height: 180px;
+    
+}
+
+main .titulo{
+    text-align: center;
+}
