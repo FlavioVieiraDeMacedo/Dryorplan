@@ -1,7 +1,8 @@
 body {
     margin: 0;
     font-family: 'Century Gothic', sans-serif;
-    background-image: url("http://www.acfconstrutora.com.br/imagens/bg-index.png");
+    
+    background-image: url("img/fundo2.png");
   }
   h2{
       color:#f39200;
@@ -29,7 +30,6 @@ body {
         height: 50vh;
     }
   }
-
 
 
 
@@ -87,7 +87,7 @@ body {
 .clientes{
     padding: 20px;
     text-align: center;
-    background: #333;
+    background:#181818;
 }
 .iconCliente{
     display: inline;
@@ -107,7 +107,7 @@ body {
 
   /* Contato \/ */
 .contato{
-    background: #333;
+    background:#181818;
     text-align: center;
     padding: 20px 0px;
 }
