@@ -1,8 +1,9 @@
 body {
-    margin: 120px 0px 0px 0px ;
+    margin: 0px 0px 0px 0px ;
     font-family: 'Century Gothic', sans-serif;
-    background-image: url("http://www.acfconstrutora.com.br/imagens/bg-index.png");
-  }
+    /* background-image: url("http://www.acfconstrutora.com.br/imagens/bg-index.png"); */
+    background-image: url("../img/fundo2.png");
+}
   h2{
     color:#f39200;
     text-transform: uppercase;
