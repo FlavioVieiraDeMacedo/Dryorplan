@@ -53,7 +53,8 @@
     .topnav a.icon {
       float: right;
       display: block ;
-      
+      background: #444;
+      border-radius: 50%;
     }
   }
   
@@ -86,6 +87,9 @@
 
   
 .logo{
+  position: absolute;
+  top: 0;
+  width: 100%;
   text-align: center;
   background: rgb(31, 39, 41,0.5);
   padding-bottom: 50px;
