@@ -2,7 +2,7 @@
   .topnav {
     padding:20px 40px;
     position: absolute;
-    top:175px;
+    top:150px;
     left: 5%;
     right: 5%;
     overflow: hidden;
@@ -97,6 +97,6 @@
 }
 
 .logo img{
-  width:200px;
+  width:150px;
   padding:10px;
 }
