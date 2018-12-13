@@ -5,7 +5,7 @@ body {
     background-image: url("img/fundo2.png");
   }
   h2{
-      color:#f39200;
+      color:#ef5321;
       text-transform: uppercase;
   }
   p{
@@ -76,12 +76,12 @@ body {
         text-decoration: none;
         color:#fff;
         padding: 10px;
-        background: #f39200;
+        background: #ef5321;
         border-radius: 5px;
         transition: 1s;
     }
     .botao a:hover{
-        background: #f36a00;
+        background: #ef5321;
     }
 /* Cliente \/ */
 .clientes{

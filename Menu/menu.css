@@ -2,7 +2,7 @@
   .topnav {
     padding:20px 40px;
     position: absolute;
-    top:100px;
+    top:175px;
     left: 5%;
     right: 5%;
     overflow: hidden;
@@ -26,12 +26,12 @@
   
   .topnav a:hover {
     /* background-color: #ddd; */
-    color: #f39200;
+    color: #ef5321;
   }
   
   .active {
     font-weight: bold;
-    color: #f39200 !important;
+    color: #ef5321 !important;
   }
   
   .topnav .icon {
@@ -91,12 +91,12 @@
   top: 0;
   width: 100%;
   text-align: center;
-  background: rgb(31, 39, 41,0.5);
+  background: rgb(31, 39, 41,0.8);
   padding-bottom: 50px;
   padding-top: 30px;
 }
 
 .logo img{
-  width:100px;
+  width:200px;
   padding:10px;
 }
